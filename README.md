@@ -9,7 +9,7 @@ This site will include a Foundations of Software Development NOTES and APPLICATI
 
 **_Topics_** | **_Links_**
 ------------ | -------------
-**_Introduction to HTMLE & JAVASCRIPT_** | [Reading Notes](https://emanalazzam.github.io/code-201-reading-notes/)
+**_Introduction to HTMLE & JAVASCRIPT_** | [Reading Notes]()
 **__**| []()
 **__** | []()
 **__**| []()
