@@ -2,37 +2,38 @@
 
 As we mentioned earlier WEB pages constructs by using HTML, CSS and JS all togather, 
 also we said that HTML stands for hyperText Markup Language that used to describes and defines the content and basic structure of the websites.
-
 JS control the behavior of websites. It's degined to manipulate web pages and it is used to create interactive functionality.
 
-<img align="right" width="200" height="200" src="https://www.visualcapitalist.com/wp-content/uploads/2019/08/top-100-websites-prev-1000x600.jpg">
+
+<img align="center" width="500" height="300" src="https://www.visualcapitalist.com/wp-content/uploads/2019/08/top-100-websites-prev-1000x600.jpg">
 
 
 ## BUT How People Access the Web?
 
 People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Chrome, and Opera. When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website. Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to remember that various devices have different screen sizes and some have faster connections to the web than others.
 
+
 <img align="right" width="200" height="200" src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/datensicherung-von-verschiedene-devices-c.jpg">
+
+
 
 
 
 ## BUILDING THE STRUCTURE OF THE PAGE
 
-<img align="right" width="200" height="200" src="https://codebrainer.azureedge.net/images/what-is-html.jpg">
-
 Will HTML Uses Elements to Describe the Structure of Pages. Each element has an opening tag and a closing Tags act like containers. They tell you something about the information that lies between their opening and closing tags
 
 tags
-* The opening <html> tag indicates that anything between it and a closing </html> tag is HTML code.
-* The <body> tag indicates that anything between it and the closing </body> tag should be shown inside the main browser window.
-* Words between <h1> and </h1> are a main heading.
-* A paragraph of text appears between these <p> and </p> tags.
-* Words between <h2> and </h2> form a sub-heading.
-* Here is another paragraph between opening <p> and closing </p> tags.
-* Another sub-heading inside <h2> and </h2> tags.
-* Another paragraph inside <p> and </p> tags.
-* The closing </body> tag indicates the end of what should appear in the main browser window.
-* The closing </html> tag indicates that it is the end of the HTML code.
+* The opening "html" tag indicates that anything between it and a closing "/html" tag is HTML code.
+* The "body" tag indicates that anything between it and the closing "/body" tag should be shown inside the main browser window.
+* Words between "h1" and "/h1" are a main heading.
+* A paragraph of text appears between these "p" and "/p" tags.
+* Words between "h2" and "/h2" form a sub-heading.
+* Here is another paragraph between opening "p" and closing "/p" tags.
+* Another sub-heading inside "h2" and "/h2" tags.
+* Another paragraph inside "p" and "/p" tags.
+* The closing "/body" tag indicates the end of what should appear in the main browser window.
+* The closing "/html" tag indicates that it is the end of the HTML code.
 
 ## HISTORY OF _HTML_
 
@@ -146,13 +147,15 @@ STRING OPERATOR There is just one string operator: the+ symbol. It is used to jo
 
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements. 
 
-<img align="right" width="200" height="200" src="https://fireship.io/courses/javascript/img/function-declaration.png">
+<img align="center" width="500" height="200" src="https://fireship.io/courses/javascript/img/function-declaration.png">
 
 you can declear a function :  _function functionName(value){statments;}_
 and call then it by: _functionName(value);_
 
 
-[THE END](https://c4.wallpaperflare.com/wallpaper/76/1011/652/blue-text-fog-blue-wallpaper-preview.jpg)
+
+
+![THE END](https://c4.wallpaperflare.com/wallpaper/76/1011/652/blue-text-fog-blue-wallpaper-preview.jpg)
 
 
 
