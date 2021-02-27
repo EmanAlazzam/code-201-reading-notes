@@ -13,8 +13,6 @@ JS control the behavior of websites. It's degined to manipulate web pages and it
 People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Chrome, and Opera. When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website. Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to remember that various devices have different screen sizes and some have faster connections to the web than others.
 
 
-<img align="right" width="200" height="200" src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/datensicherung-von-verschiedene-devices-c.jpg">
-
 
 
 
@@ -22,6 +20,10 @@ People access websites using software called a web browser. Popular examples inc
 ## BUILDING THE STRUCTURE OF THE PAGE
 
 Will HTML Uses Elements to Describe the Structure of Pages. Each element has an opening tag and a closing Tags act like containers. They tell you something about the information that lies between their opening and closing tags
+
+<img align="right" width="200" height="200" src="https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/datensicherung-von-verschiedene-devices-c.jpg">
+
+
 
 tags
 * The opening "html" tag indicates that anything between it and a closing "/html" tag is HTML code.
