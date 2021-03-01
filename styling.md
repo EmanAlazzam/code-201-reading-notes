@@ -1,5 +1,7 @@
 # How To Make A Style For Your Page?
 
+![Styling](https://mk0architensx5k6hog9.kinstacdn.com/wp-content/uploads/architen_files/9def19dd14df38b83240be24c20dd464.jpg)
+
 **let's start with the texts**
 
 Each text is combined of Head and main paragraphs. in HTML to write a head you need to use H tags which consistes form 6 different levels from the most imprortent level to the least one. And to insirt these heads just open and close a _h_ tag with the specific number from 1-6.
@@ -7,6 +9,8 @@ Each text is combined of Head and main paragraphs. in HTML to write a head you n
 To write a paragraph, open and close a _p_ tag and write anything you want in it. _b_ is to make a word bold, _i_ is to make it etlic _br_ is to start a new line and _hr_ to seperats between lines.
 
 # Now How To make the Texts More lively?
+
+![Design](https://miro.medium.com/max/6000/1*QHeR_o43WJdY5q91zOhmvA.png)
 
 I believe you already know the answer. Of course it is CSS 
 
@@ -93,8 +97,5 @@ Javascript allow you to make web pages more interactive by accessing and modifyi
 
 Javascript encompasses many of the traditional rules of programming.
 it can make the web page feel interactive by responding to what the user does.
-
-
-
 
 
