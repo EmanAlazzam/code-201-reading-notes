@@ -157,7 +157,7 @@ and call then it by: _functionName(value);_
 
 
 
-![THE END](https://c4.wallpaperflare.com/wallpaper/76/1011/652/blue-text-fog-blue-wallpaper-preview.jpg)
+![THE END](https://i.ytimg.com/vi/Z0QE_tvEBrg/maxresdefault.jpg)
 
 
 
