@@ -53,7 +53,5 @@ During a five-hour paired lab session, Code Fellows students work on all four of
 6. Work environment readiness
 
 
-
-
-
+![connection](https://community.connection.com/wp-content/uploads/2017/07/Go-Global-with-Connection.jpg)
 
