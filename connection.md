@@ -2,7 +2,7 @@
 
 Links are the defining feature of the web because they allow you to move from one web page to another enabling the very idea of browsing or surfing. Links are created using the _a_ element. Users can click on anything between the opening _a_ tag and the closing _a_ tag. You specify which page you want to link to using the href attribut.
 
-_a href="URL" LINK NAME _a using this format you can:
+_a h-r-e-f="URL" LINK NAME _a using this format you can:
 * Linking to Other Sites.
 * Linking to Other Pages on the Same Site.
 * Email Links.
@@ -12,6 +12,7 @@ _a href="URL" LINK NAME _a using this format you can:
 
 
 # layout css
+
 * _div_ elements are often used as containing elements to group together sections of a page.
 * Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
 * The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
@@ -20,6 +21,8 @@ _a href="URL" LINK NAME _a using this format you can:
 * Grids help create professional and flexible designs.
 * CSS Frameworks provide rules for common tasks.
 * You can include multiple CSS files in one page.
+
+
 
 # Functions, Methods, and Objects js
 
