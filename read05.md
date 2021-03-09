@@ -38,7 +38,7 @@ _h1, h2, h3 { font-family: Arial;  color: yellow;}_
 you edit the size, color ,type, and everything in about the font:
 
 
-<img width="500" height="100" src="https://www.onlineprinters.co.uk/magazine/wp-content/uploads/2019/06/font-sizes-boundaries.jpeg">
+<img width="500" height="700" src="https://www.onlineprinters.co.uk/magazine/wp-content/uploads/2019/06/font-sizes-boundaries.jpeg">
 
 
  And to connect between the html and the css you need to provide a link in this formula
