@@ -11,7 +11,7 @@ Where an image is placed in the code, for EX:
 * in the middle of a paragraph.
  Also, you can aligned it to the left, right, top, bottom or middle using **Align** also between the tages.
 
-<img align="middle" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6GtORJo912v8lxkkg5qJ_Xb3KbaH1gboqg&usqp=CAU">
+<img align="middle" width="400" height="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6GtORJo912v8lxkkg5qJ_Xb3KbaH1gboqg&usqp=CAU">
 
 **CHOOSE THE BEST COLOR**
 
