@@ -1,4 +1,4 @@
-# JS Debugging errors:
+# JS Debugging&Errors:
 
 ## Depuging:
  eliminating potential causes of an error.
