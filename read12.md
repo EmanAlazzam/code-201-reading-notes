@@ -1,6 +1,9 @@
 # Charts 
 
 
+![Alt Text](https://i.pinimg.com/originals/3a/e9/30/3ae9305f77174913efa9265f6cc720dd.gif)
+
+
 Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. 
 They’re easier to look at and convey data quickly, but they’re not always easy to create.
 
